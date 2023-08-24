@@ -1,1 +1,2 @@
-Avaliação2Trimestre 
+
+AVALIAÇÃO2TRIMESTRE

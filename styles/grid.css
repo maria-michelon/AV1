@@ -1,6 +1,6 @@
 .Imagem{
-    width: 130px!important;
-    height: 130px!important;
+    width: 135px!important;
+    height: 135px!important;
 }
 .div-todasimagens{
     display: grid;
@@ -22,13 +22,13 @@
         background-color: #faecfc;
     }
     .Imagem{
-        border: 3px solid rgb(28, 10, 192);
+        border: 3px solid rgb(124, 131, 233);
         width: 180px!important;
         height: 160px!important;
     
     }
     .titulo{ 
         font-size: 25px;
-        color: rgb(0, 0, 0);
+        color: rgb(8, 8, 10);
     }
 }
